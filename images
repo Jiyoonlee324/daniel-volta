@@ -2,5 +2,5 @@ daniel-volta-cell/
 ├── app.py
 ├── requirements.txt
 └── images/
-    ├── daniel_cell.png
-    └── volta_cell.png
+    ├── daniel_cell.PNG
+    └── volta_cell.PNG
